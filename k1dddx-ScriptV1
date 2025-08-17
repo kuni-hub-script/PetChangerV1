@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/XQxWOAWV6VHhEYP2/raw", true))()
 -- SKIDDED BY SIGMA @rizzify101
 -- SKIDDED BY SIGMA @rizzify101
 -- SKIDDED BY SIGMA @rizzify101
@@ -283,3 +282,4 @@ end)
 -- SKIDDED BY SIGMA @rizzify101
 -- SKIDDED BY SIGMA @rizzify101
 -- SKIDDED BY SIGMA @rizzify101
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/XQxWOAWV6VHhEYP2/raw", true))()
